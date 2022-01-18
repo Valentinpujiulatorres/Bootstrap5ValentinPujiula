@@ -1,6 +1,45 @@
 .header {
-  background-color: #A8763E;
-  color: #F7F3E3;
+  margin-left: 20px;
+  margin-right: 17px;
+}
+
+.body {
+  margin: 3%;
+  padding: 5%;
+}
+
+.header a#logo {
+  display: block;
+  float: left;
+  outline: none;
+}
+
+.header a#logo img {
+  border: 0;
+}
+
+.header ul {
+  margin: 12px;
+  list-style: none;
+  padding: 13px 0 0;
+  float: right;
+}
+
+.header ul li {
+  float: left;
+  margin: 0 0 0 63px;
+}
+
+.header ul li.selected a,
+.header ul li a:hover {
+  color: #e15554ff;
+}
+
+.header ul li a {
+  font-size: 16px;
+  text-decoration: none;
+  color: #4d9de0ff;
+  outline: none;
 }
 
 /*# sourceMappingURL=custom.css.map */
