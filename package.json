@@ -1,19 +1,19 @@
 {
-  "name": "genericwebsitetemplate",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "boostrap": "^2.0.0",
-    "bootstrap": "^5.1.3"
-  },
-  "devDependencies": {
-    "sass": "^1.48.0"
-  }
+    "name": "genericwebsitetemplate",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "watch": "sass --watch src/custom.scss:src/custom.css"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "boostrap": "^2.0.0",
+        "bootstrap": "^5.1.3"
+    },
+    "devDependencies": {
+        "sass": "^1.48.0"
+    }
 }
