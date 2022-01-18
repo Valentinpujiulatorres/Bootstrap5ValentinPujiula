@@ -4,14 +4,15 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "watch": "sass --watch src/custom.scss:src/custom.css"
+        "scss": "sass --watch src/custom.scss:src/custom.css"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "dependencies": {
         "boostrap": "^2.0.0",
-        "bootstrap": "^5.1.3"
+        "bootstrap": "^5.1.3",
+        "node-sass": "^7.0.1"
     },
     "devDependencies": {
         "sass": "^1.48.0"
