@@ -7,6 +7,7 @@
     <title>Xayona Website Template</title>
 
     <link rel="stylesheet" href="src/custom.css" type="text/css" />
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
     <!--[if IE 7]>
 			<link rel="stylesheet" href="css/ie7.css" type="text/css" />
 
@@ -16,62 +17,44 @@
 		<![endif]-->
 </head>
 
-<body>
-    <div class="container">
-        <div class="">
-            <div class="header column">
-                <a href="index.html" id="logo"><img src="images/logo.gif" alt="" /></a>
+<body class="m-4">
+    <div class="container-fluid  ">
+        <div class="navbar bg-light">
+            <div class="header row">
                 <ul>
+                    <li>
+                        <h2 class="">Xayona</h2>
+                    </li>
                     <li class="selected"><a href="index.html">Home</a></li>
                     <li><a href="about.html" aria-disabled="false">About</a></li>
                     <li><a href="blog.html">Blog</a></li>
                     <li><a href="services.html">Services</a></li>
+                    <li><button class="btn btn-secondary">Subscribe</button></li>
                 </ul>
+
             </div>
 
 
         </div>
-
-        <div class="column">
-
-            <ul class="">
-                <li>
-                    <div>
-                        <a href="blog.html"><img src="images/pastries.jpg" alt="" /></a>
-                        <p>This website template has been designed by Free Website Templates for you, for free. You can replace all this text with your own text.</p>
-                        <a href="blog.html">Click to read more</a>
-                    </div>
-                </li>
-                <li>
-                    <div>
-                        <a href="blog.html"><img src="images/fruits.jpg" alt="" /></a>
-                        <p>This website template has been designed by Free Website Templates for you, for free. You can replace all this text with your own text.</p>
-                        <a href="blog.html">Click to read more</a>
-                    </div>
-                </li>
-                <li>
-                    <div>
-                        <a href="blog.html"><img src="images/cosmetics.jpg" alt="" /></a>
-                        <p>This website template has been designed by Free Website Templates for you, for free. You can replace all this text with your own text.</p>
-                        <a href="blog.html">Click to read more</a>
-                    </div>
-                </li>
-            </ul>
-        </div>
-        <div class="">
-            <ul>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="about.html">About</a></li>
-                <li><a href="blog.html">Blog</a></li>
-                <li><a href="services.html">Gallery</a></li>
-            </ul>
-            <p>&#169; Copyright &#169; 2011. Company name all rights reserved</p>
-            <div class="">
-                <a href="http://facebook.com/freewebsitetemplates" id="facebook">facebook</a>
-                <a href="http://twitter.com/fwtemplates" id="twitter">twitter</a>
-                <a href="http://www.youtube.com/fwtemplates" id="vimeo">vimeo</a>
+    </div>
+    <div id="MainContent" class="text-center">
+        <div class="container mt-3">
+            <h2>INFO Webpage (collapse)</h2>
+            <p>Presiona el Boton para ver su contenido.</p>
+            <button type="button" class="btn btn-primary" data-bs-toggle="collapse" data-bs-target="#demo">Conocenos</button>
+            <div id="demo" class="collapse">
+                <p class="mt-4 alert alert-info">Somos una empresa sin animo de lucro que se dedica a la venta y distribucion de Pasteles , todos ellos los puedes encontrar en nuestro catalogo</p>
             </div>
         </div>
+
+
+    </div>
+    <div class=" container-fluid text-center mt-4">
+        <h2 class="fifth-color">Pasteles</h2>
+        <p>Algunas de nuestras delicias mejor preparadas</p>
+
+
+
     </div>
 </body>
 
