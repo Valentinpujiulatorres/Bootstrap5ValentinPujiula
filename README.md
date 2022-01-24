@@ -5,15 +5,32 @@
 Despliegue en APP NETLIFY :: https://prac-bootstrap-valentinpujiula.netlify.app/
 
 
-### Modulos Empleados :
+### Modules :
 
 1. Navbar (Bootstrap5)
+
+![Navbar: ](/ProjectImages/navbar.png)
+
 2. Buttons (B5)
+
+![Buttons](/ProjectImages/button1.png)
+
 3. spacers (Grid system , margin{ m-(position)-(size)}, paddings ...)
 4. Collapse (with Alerts )
-5. Cards (custom ** )
+
+    ![Alert / Collapse ](/ProjectImages/alert1.png)
+
+
+5. Cards (custom * )
+
+    ![Custom Cards (Image + Body) ](/ProjectImages/card1.png)
+
 6. Carrousel (project related)
-7. modals (Subscribe button)
+
+
+![Custom Cards (Image + Body) ](/ProjectImages/Galaeria1.png)
+
+7. Modals (Subscribe button)
 
 
 

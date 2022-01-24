@@ -21,6 +21,7 @@ $fifth-color: #7768aeff;
     --green: $fourth-color
 }
 
+$theme-colors: ( "primary": $primary-blue, "secondary": $secondary-red, "success": $fourth-color, "info": $info, "warning": $fifth-color);
 
 /* colors change palette */
 

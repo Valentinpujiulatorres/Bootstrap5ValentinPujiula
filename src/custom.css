@@ -11123,6 +11123,14 @@ textarea.form-control-lg {
   margin-right: 17px;
 }
 
+/* PAleta de colores personalizada */
+.colors {
+  --blue: $primary-blue;
+  --red: $secondary-red;
+  --yellow: $third-color;
+  --green: $fourth-color ;
+}
+
 /* colors change palette */
 .primary-blue {
   color: #4d9de0ff;
