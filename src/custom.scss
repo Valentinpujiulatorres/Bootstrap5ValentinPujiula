@@ -12,6 +12,16 @@ $fifth-color: #7768aeff;
 }
 
 
+/* PAleta de colores personalizada */
+
+.colors {
+    --blue: $primary-blue;
+    --red: $secondary-red;
+    --yellow: $third-color;
+    --green: $fourth-color
+}
+
+
 /* colors change palette */
 
 .primary-blue {
