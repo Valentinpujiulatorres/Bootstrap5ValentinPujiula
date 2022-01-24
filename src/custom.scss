@@ -11,6 +11,21 @@ $fifth-color: #7768aeff;
     margin-right: 17px;
 }
 
+
+/* colors change palette */
+
+.primary-blue {
+    color: $primary-blue;
+}
+
+.secondary-red {
+    color: $secondary-red;
+}
+
+.terciary-yellow {
+    color: $third-color
+}
+
 .body {
     margin: 3%;
     padding: 5%;

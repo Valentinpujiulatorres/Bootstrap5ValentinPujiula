@@ -11123,6 +11123,19 @@ textarea.form-control-lg {
   margin-right: 17px;
 }
 
+/* colors change palette */
+.primary-blue {
+  color: #4d9de0ff;
+}
+
+.secondary-red {
+  color: #e15554ff;
+}
+
+.terciary-yellow {
+  color: #e1bc29ff;
+}
+
 .body {
   margin: 3%;
   padding: 5%;
