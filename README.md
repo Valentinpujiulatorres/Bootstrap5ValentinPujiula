@@ -13,26 +13,26 @@ Despliegue en APP NETLIFY :: https://prac-bootstrap-valentinpujiula.netlify.app/
 
 2. Buttons (B5)
 
-![Buttons](/button1.png)
+![Buttons](ProjectImages/button1.png)
 
 3. spacers (Grid system , margin{ m-(position)-(size)}, paddings ...)
 4. Collapse (with Alerts )
 
-    ![Alert / Collapse ](/alert1.png)
+    ![Alert/Collapse ](ProjectImages/alert1.png)
 
 
 5. Cards (custom * )
 
-    ![Custom Cards (Image + Body) ](/card1.png)
+    ![Custom Cards (Image + Body) ](ProjectImages/card1.png)
 
 6. Carrousel (project related)
 
 
-![Custom Cards (Image + Body) ](/Galaeria1.png)
+![Custom Cards (Image + Body) ](ProjectImages/Galaeria1.png)
 
 7. Modals (Subscribe button)
 
-![Modal 1) ](/overlay1.png)
+![Modal 1) ](ProjectImages/overlay1.png)
 
 
 ---
