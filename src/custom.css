@@ -11132,6 +11132,18 @@ textarea.form-control-lg {
 }
 
 /* colors change palette */
+.bg-primary {
+  background-color: #7768aeff;
+}
+
+.bg-secondary {
+  background-color: #3bb273ff;
+}
+
+.bg-third {
+  background-color: #e1bc29ff;
+}
+
 .primary-blue {
   color: #4d9de0ff;
 }

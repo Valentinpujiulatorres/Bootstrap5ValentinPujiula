@@ -25,6 +25,18 @@ $theme-colors: ( "primary": $primary-blue, "secondary": $secondary-red, "success
 
 /* colors change palette */
 
+.bg-primary {
+    background-color: $fifth-color;
+}
+
+.bg-secondary {
+    background-color: $fourth-color;
+}
+
+.bg-third {
+    background-color: $third-color;
+}
+
 .primary-blue {
     color: $primary-blue;
 }
