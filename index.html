@@ -30,7 +30,7 @@
                     <li><a href="about.html" aria-disabled="false">About</a></li>
                     <li><a href="blog.html">Blog</a></li>
                     <li><a href="services.html">Services</a></li>
-                    <li><button class="btn btn-secondary">Subscribe</button></li>
+                    <li><button class="btn btn-secondary" data-bs-toggle="modal" data-bs-target="#ModalSubscribe">Subscribe</button></li>
                 </ul>
 
             </div>
@@ -85,14 +85,76 @@
 
         </div>
 
-        <div id="carrousel">
-
-
+        <div id="carrousel" class="container mt-4">
+            <h2 class="secondary-red mt-4">Documentacion B5, Netlify y scss</h2>
+            <p>U can Follow the process via Github.com , in this carrousele you will find some extra info on how i developed asignment objectives</p>
+            <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <img src="./ProjectImages/COLORS.PNG" class="d-block w-100 " style="width: 200px;">
+                        <div class="carousel-caption">
+                            <h3>SCSS</h3>
+                            <p>Extracts of the process of changing original Bootstrap classes</p>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <img src="./ProjectImages/nETLIFY.PNG" class="d-block w-100 ">
+                        <div class="carousel-caption">
+                            <h3>NETLIFY</h3>
+                            <p>Extracts of the process of deploying my site</p>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <img src="./ProjectImages/b5F.PNG" class="d-block w-100">
+                        <div class="carousel-caption">
+                            <h3>BOOTSTRAP</h3>
+                            <p>Extracts of the instalation of B5 packages</p>
+                        </div>
+                    </div>
+                </div>
+                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+                  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                  <span class="terciary-yellow">Previous</span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+                  <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                  <span class="terciary-yellow">Next</span>
+                </button>
+            </div>
 
         </div>
 
+        <div class="modal" id="ModalSubscribe">
+            <div class="modal-dialog modal-md">
+                <div class="modal-content">
 
-    </div>
+                    <!-- Modal Header -->
+                    <div class="modal-header">
+                        <h4 class="modal-title">Subscribe our Website</h4>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                    </div>
+
+                    <!-- Modal body -->
+                    <div class="modal-body">
+
+                        <p class="secondary-red">see every update we do on our page with a quick subscribe</p>
+                        <label for="name">Username:</label>
+                        <input type="text" id="name"><br>
+                        <label for="checkbox">I accept the privacy form and data compile</label>
+                        <input type="checkbox" id="checkbox">
+                        <br>
+                        <button type="button" class="btn btn-secondary">SEND</button>
+                    </div>
+
+                    <!-- Modal footer -->
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
 </body>
 
 </html>
