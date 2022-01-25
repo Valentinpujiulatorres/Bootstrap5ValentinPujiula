@@ -10,7 +10,7 @@ Despliegue en APP NETLIFY :: https://prac-bootstrap-valentinpujiula.netlify.app/
 1. Navbar (Bootstrap5)
 
 
-![Navbar:](./ProjectImages/navbar.png)
+![Navbar:](./ProjectImages/navbar.PNG)
 
 
 
@@ -26,16 +26,16 @@ Despliegue en APP NETLIFY :: https://prac-bootstrap-valentinpujiula.netlify.app/
 
 5. Cards (custom * )
 
-    ![Custom Cards (Image + Body) ](ProjectImages/card1.png)
+    ![Custom Cards (Image + Body) ](ProjectImages/card1.PGN)
 
 6. Carrousel (project related)
 
 
-![Custom Cards (Image + Body) ](ProjectImages/Galaeria1.png)
+![Custom Cards (Image + Body) ](ProjectImages/Galaeria1.PNG)
 
 7. Modals (Subscribe button)
 
-![Modal 1) ](ProjectImages/overlay1.png)
+![Modal 1) ](ProjectImages/overlay1.PNG)
 
 
 ---
