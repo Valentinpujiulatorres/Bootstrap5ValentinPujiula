@@ -8,8 +8,11 @@ Despliegue en APP NETLIFY :: https://prac-bootstrap-valentinpujiula.netlify.app/
 ### Modules :
 
 1. Navbar (Bootstrap5)
-<img src="https://github.com/Valentinpujiulatorres/Bootstrap5ValentinPujiula/blob/master/ProjectImages/navbar.png">
-![Navbar:](/ProjectImages/navbar.png)
+
+
+![Navbar:](./ProjectImages/navbar.png)
+
+
 
 2. Buttons (B5)
 
