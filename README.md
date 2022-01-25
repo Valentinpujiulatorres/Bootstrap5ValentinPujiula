@@ -9,34 +9,30 @@ Despliegue en APP NETLIFY :: https://prac-bootstrap-valentinpujiula.netlify.app/
 
 1. Navbar (Bootstrap5)
 
-<<<<<<< HEAD
-![Navbar:](https://github.com/Valentinpujiulatorres/Bootstrap5ValentinPujiula/blob/master/ProjectImages/navbar.png)
-=======
-![Navbar:](./ProjectImages/navbar.png)
->>>>>>> 120060fbc156d34df6853d626539ed34d78ad224
+![Navbar:](/ProjectImages/navbar.png)
 
 2. Buttons (B5)
 
-![Buttons](https://github.com/Valentinpujiulatorres/Bootstrap5ValentinPujiula/blob/master/ProjectImages/button1.png)
+![Buttons](ProjectImages/button1.png)
 
 3. spacers (Grid system , margin{ m-(position)-(size)}, paddings ...)
 4. Collapse (with Alerts )
 
-    ![Alert / Collapse ](https://github.com/Valentinpujiulatorres/Bootstrap5ValentinPujiula/blob/master/ProjectImages/alert1.png)
+    ![Alert / Collapse ](ProjectImages/alert1.png)
 
 
 5. Cards (custom * )
 
-    ![Custom Cards (Image + Body) ](https://github.com/Valentinpujiulatorres/Bootstrap5ValentinPujiula/blob/master/ProjectImages/card1.png)
+    ![Custom Cards (Image + Body) ](ProjectImages/card1.png)
 
 6. Carrousel (project related)
 
 
-![Custom Cards (Image + Body) ](https://github.com/Valentinpujiulatorres/Bootstrap5ValentinPujiula/blob/master/ProjectImages/Galaeria1.png)
+![Custom Cards (Image + Body) ](ProjectImages/Galaeria1.png)
 
 7. Modals (Subscribe button)
 
-![Modal 1) ](https://github.com/Valentinpujiulatorres/Bootstrap5ValentinPujiula/blob/master/ProjectImages/overlay1.png)
+![Modal 1) ](ProjectImages/overlay1.png)
 
 
 ---
