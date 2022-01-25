@@ -9,7 +9,11 @@ Despliegue en APP NETLIFY :: https://prac-bootstrap-valentinpujiula.netlify.app/
 
 1. Navbar (Bootstrap5)
 
+<<<<<<< HEAD
 ![Navbar:](https://github.com/Valentinpujiulatorres/Bootstrap5ValentinPujiula/blob/master/ProjectImages/navbar.png)
+=======
+![Navbar:](./ProjectImages/navbar.png)
+>>>>>>> 120060fbc156d34df6853d626539ed34d78ad224
 
 2. Buttons (B5)
 
