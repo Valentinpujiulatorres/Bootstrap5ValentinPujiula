@@ -16,7 +16,7 @@ Despliegue en APP NETLIFY :: https://prac-bootstrap-valentinpujiula.netlify.app/
 
 2. Buttons (B5)
 
-![Buttons](ProjectImages/button1.png)
+![Buttons](ProjectImages/button1.PNG)
 
 3. spacers (Grid system , margin{ m-(position)-(size)}, paddings ...)
 4. Collapse (with Alerts )
@@ -33,7 +33,7 @@ Despliegue en APP NETLIFY :: https://prac-bootstrap-valentinpujiula.netlify.app/
 
 ![Custom Card](ProjectImages/Galaeria1.PNG)
 
-7. Modals (Subscribe button)
+7. Modals (Subscribe button {HOME})
 
 ![Modal 1) ](ProjectImages/overlay1.PNG)
 
