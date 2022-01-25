@@ -21,7 +21,7 @@ Despliegue en APP NETLIFY :: https://prac-bootstrap-valentinpujiula.netlify.app/
 3. spacers (Grid system , margin{ m-(position)-(size)}, paddings ...)
 4. Collapse (with Alerts )
 
-    ![Alert / Collapse ](ProjectImages/alert1.png)
+    ![Alert / Collapse ](ProjectImages/alert1.PNG)
 
 
 5. Cards (custom * )
