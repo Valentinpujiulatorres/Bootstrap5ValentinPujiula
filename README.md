@@ -26,12 +26,12 @@ Despliegue en APP NETLIFY :: https://prac-bootstrap-valentinpujiula.netlify.app/
 
 5. Cards (custom * )
 
-    ![Custom Cards (Image + Body) ](ProjectImages/card1.PGN)
+    ![Custom Cards](ProjectImages/card1.PNG)
 
 6. Carrousel (project related)
 
 
-![Custom Cards (Image + Body) ](ProjectImages/Galaeria1.PNG)
+![Custom Card](ProjectImages/Galaeria1.PNG)
 
 7. Modals (Subscribe button)
 
