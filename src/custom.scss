@@ -1,7 +1,9 @@
+$primario: blue;
+$theme-colors:( "primary":$primario);
 @import "../node_modules/bootstrap/scss/bootstrap";
 $font-stack: Helvetica,
 sans-serif;
-$primary-blue: #4d9de0ff;
+$primary-blue: rgb(182, 200, 214);
 $secondary-red: #e15554ff;
 $third-color: #e1bc29ff;
 $fourth-color: #3bb273ff;
@@ -11,6 +13,7 @@ $fifth-color: #7768aeff;
     margin-right: 17px;
 }
 
+$primary:$fifth-color;
 
 /* PAleta de colores personalizada */
 
